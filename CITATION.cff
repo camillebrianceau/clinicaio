@@ -1,0 +1,10 @@
+cff-version: 0.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Doe
+    given-names: John
+title: "ClinicaIO: add description"
+version: 0.1.0
+license: MIT
+date-released: 2024-11-
+url: "https://github.com/aramis-lab/clinicaio"

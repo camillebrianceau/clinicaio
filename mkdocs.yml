@@ -1,0 +1,43 @@
+# Project information
+site_name: ClinicaIO Documentation
+site_author: ClinicaIO contributors
+site_url: https://clinicaio.readthedocs.io/
+site_description: >-
+  TODO: Add documentation
+
+# Repository
+repo_name: aramislab/clinicaio
+repo_url: https://github.com/aramis-lab/clinicaio
+#edit_uri: master/edit/doc
+
+# Copyright
+copyright: Copyright &copy; 2019-2024 ClinicaIO contributors
+
+# Google Analytics
+google_analytics:
+  - UA-106080699-1
+  - auto
+
+# Configuration
+# TODO 
+
+# Version panel
+extra_javascript:
+  - "https://code.jquery.com/jquery-3.3.1.min.js"
+
+# Customization
+# TODO
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - toc:
+      permalink: True
+
+# Page tree
+# TODO

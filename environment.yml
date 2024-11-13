@@ -1,0 +1,6 @@
+name: clinicaio_dev
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11

@@ -1,0 +1,16 @@
+# Python and system files
+build/
+dist/
+env/
+
+
+# Editor's files
+.idea
+.vscode
+.env
+
+# Code coverage and crash log files
+.coverage
+crash*
+
+
